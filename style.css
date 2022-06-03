@@ -1,0 +1,19 @@
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 150px;
+    transition: width .7s, height 1.2s, background-color 2s;
+
+}
+
+
+.black {
+    background-color: black;
+}
+
+.content {
+    width: 200px;
+    height: 200px;
+}
